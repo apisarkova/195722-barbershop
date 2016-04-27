@@ -134,7 +134,7 @@ h1,
 .catalog-content {
 	float: right;
 	font-size: 0;
-	width:700;
+	width:700px;
 }
 
 .catalog-item {
@@ -179,7 +179,7 @@ h1,
 	margin-right: 20px;
 }
 
-.photo-small:nth-child(3) {
+.photo-small:nth-child(4) {
 	margin-right: 0;
 }
 
