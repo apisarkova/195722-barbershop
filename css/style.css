@@ -86,6 +86,15 @@ h1,
 	background-color: #242424;
 }
 
+.main-navigation .header-logo {
+	display: display: inline-block;
+ 	width: 111px;
+  	font-size: 0;
+	vertical-align: top;
+	text-decoration: none;
+	background: #000000 url("../img/header-logo.png") no-repeat center;;
+}
+
 .user-block {
 	float: right;
 	max-width: 140px;
